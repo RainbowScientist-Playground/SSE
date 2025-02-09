@@ -20,7 +20,7 @@ To get started with Sun Source Energy, follow these steps:
 
 Windows
 Clone the Repository:
-git clone https://github.com/yourusername/sun-source-energy.git
+git clone https://support.microsoft.com/en-us/feed/atom/32d322a8-acae-202d-e9a9-7371dccf381bhttps://github.com/yourusername/sun-source-energy.git
 
 Install Dependencies:
 cd sun-source-energy
